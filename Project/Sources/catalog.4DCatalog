@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="PicturesCombine" uuid="B6C150F976DC834ABB5E7AEA4F47119E" collation_locale="fr">
+	<schema name="DEFAULT_SCHEMA"/>
+	<base_extra data_file_path=":PicturesCombine.4DD" package_name="PicturesCombine" structure_file_name="PicturesCombine">
+		<journal_file journal_file_enabled="false"/>
+	</base_extra>
+</base>

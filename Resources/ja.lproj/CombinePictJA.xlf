@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+Translation file for 4D products.
+Copyright(C)2006 4D SA.
+This file is distributed under the same license as the 4D product package.
+-->
+
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+
+<xliff version="1.0">
+   <file build-num="9.0" datatype="x-STR#" date="2006-04-20T12:13:41Z" original="4th Dimension" product-name="4th Dimension" product-version="v11" source-language="en-US" target-language="ja">
+      <body>
+         <group id="15996" resname="Page1">
+            <trans-unit id="1" resname="Thema">
+               <source>Images</source>
+               <target>イメージ</target>
+            </trans-unit>
+            <trans-unit id="2" resname="Name">
+               <source>Superimposition</source>
+               <target>イメージの合成</target>
+            </trans-unit>
+            <trans-unit id="3" resname="Description">
+               <source>This demonstration shows how to superimpose pictures.
+The picture may be of different types (jpg, gif, png, etc.) and the position of the superimposed picture can be set by parameters.</source>
+               <target>この教材では, ピクチャを合成する方法が習得できます。
+オリジナルのピクチャは, どのタイプでも構いません。(jpg, gif, png, etc.)
+合成するピクチャの位置は自由に設定することができます。</target>
+            </trans-unit>
+         </group>
+      </body>
+   </file>
+</xliff>

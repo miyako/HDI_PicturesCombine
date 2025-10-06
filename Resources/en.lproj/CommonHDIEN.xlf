@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+Translation file for 4D products.
+Copyright(C)2006 4D SA.
+This file is distributed under the same license as the 4D product package.
+-->
+
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+
+<xliff version="1.0">
+   <file build-num="9.0" datatype="x-STR#" date="2006-04-20T12:13:41Z" original="4th Dimension" product-name="4th Dimension" product-version="v11" source-language="en-US" target-language="en-US">
+      <body>
+         <group id="15996" resname="TabButtons">
+            <trans-unit id="1" resname="btn_Quit">
+               <source>Quit</source>
+               <target>Quit</target>
+            </trans-unit>
+            <trans-unit id="2" resname="btn_GoToDesign">
+               <source>Go To Design</source>
+               <target>Go To Design</target>
+            </trans-unit>
+            <trans-unit id="3" resname="Btn_Demo">
+               <source>Demonstration &gt;&gt;</source>
+               <target>Demonstration &gt;&gt;</target>
+            </trans-unit>
+            <trans-unit id="4" resname="Title_Window">
+               <source>How Do I...</source>
+               <target>How Do I...</target>
+            </trans-unit>
+         </group>
+         <group id="15998" resname="Menus_file">
+            <trans-unit id="1" resname="menu_file">
+               <source>File</source>
+               <target>File</target>
+            </trans-unit>
+            <trans-unit id="2" resname="menu_demo">
+               <source>Demo…</source>
+               <target>Demo…</target>
+            </trans-unit>
+            <trans-unit id="3" resname="menu_quit">
+               <source>Quit</source>
+               <target>Quit</target>
+            </trans-unit>
+         </group>
+         <group id="15997" resname="Menus_edit">
+	        <trans-unit id="1" resname="menu_edit">
+               <source>Edit</source>
+               <target>Edit</target>
+            </trans-unit>	
+            <trans-unit id="2" resname="menu_undo">
+               <source>Undo</source>
+               <target>Undo</target>
+            </trans-unit>
+            <trans-unit id="4" resname="menu_cut">
+               <source>Cut</source>
+               <target>Cut</target>
+            </trans-unit>
+            <trans-unit id="5" resname="menu_copy">
+               <source>Copy</source>
+               <target>Copy</target>
+            </trans-unit>
+            <trans-unit id="6" resname="menu_paste">
+               <source>Paste</source>
+               <target>Paste</target>
+            </trans-unit>
+            <trans-unit id="7" resname="menu_clear">
+               <source>Clear</source>
+               <target>Clear</target>
+            </trans-unit>
+            <trans-unit id="8" resname="menu_selectAll">
+               <source>Select all</source>
+               <target>Select all</target>
+            </trans-unit>
+			<trans-unit id="13" resname="menu_showClipboard">
+				<source>Show clipboard</source>
+				<target>Show clipboard</target>
+			</trans-unit>
+         </group>
+      </body>
+   </file>
+</xliff>

@@ -1,0 +1,11 @@
+{
+	"Demo": {
+		"methods": [
+			"Demo_Start"
+		],
+		"forms": [
+			"Demo"
+		]
+	},
+	"trash": {}
+}

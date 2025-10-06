@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><preferences stamp="6">
+	<com.4d>
+		<general startup_environnement="1">
+			<mover always_display_dialog="2"/>
+		</general>
+		<interface>
+			<misc/>
+			<user default_user="0" print_progress="false" splash_screen="false"/>
+			<developper design_acces="0" display_toolbar="false"/>                                        </interface>
+		<web>
+			<standalone_server>
+				<configuration ip_address="0" port_number="8080" publish_at_startup="false" listening_address="::" session_mode="2" automatic_session_management="true"/>
+				<options>
+					<web_processes max_concurrent="32000" timeout_for_inactives="5"/>
+					<cache cache_max_size="512" use_4d_web_cache="false"/>
+					<web_passwords generic_web_user="1"/>
+					<filters allow_4dsync_urls="true"/>                                                                    </options>
+				<log tokens="">
+					<backup daily="" hourly="" mode="0" monthly="" size="0" weekly=""/>                            </log>
+				<webservices allow_requests="false">
+					<server allow_requests="false"/>
+				</webservices>                                                                      </standalone_server>
+			<remote>
+				<misc/>
+				<options>
+					<web_processes timeout_for_inactives="5"/>
+					<cache cache_max_size="524288" use_4d_web_cache="false"/>
+					<web_passwords generic_web_user="1"/>
+					<filters allow_4dsync_urls="true"/>                                                                    </options>
+				<configuration allow_ssl="false" ip_address="0" listening_address="0.0.0.0" session_mode="2" automatic_session_management="true"/>
+				<webservices allow_requests="false"/>                                                                      </remote>                            </web>
+		<database>
+			<cache size_maximum="1024"/>
+			<misc standard_xpath="false"/>                            </database>
+		<compiler>
+			<typage default_for_button="1" default_for_numeric="1"/>                </compiler>
+		<sql>
+			<publication port_number="1919"/>
+			<access data_read_only="0"/>                            </sql>
+		<server>
+			<ip_config>
+				<allow_deny_table/>                      </ip_config>
+			<misc/>
+			<network>
+				<options publication_name="LancerArreterServeurWeb" use_legacy_network_layer="true"/>
+				<client_server use_encryption="false"/>
+			</network>                            </server>
+		<deployment>
+			<options/>
+		</deployment>                                                          </com.4d>    </preferences>
